@@ -1,8 +1,13 @@
-
+# Action Repo
 
 new code
+new this is adding 
+checking merging message come or not 
+new new new wne wne wen pr ere si raising 
 new nwe things that added 
-new thsi gs is added 
- 
-hello this si testing repo 
 
+after frontend change 
+
+new this is added 
+ 
+hello this is testing repo
